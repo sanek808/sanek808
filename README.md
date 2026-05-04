@@ -1,4 +1,4 @@
-## Hi there 👋
+## From SPK P23 👋
 
 <!--
 **sanek808/sanek808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
